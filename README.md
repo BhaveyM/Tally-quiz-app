@@ -1,1 +1,1 @@
-# Tally-quiz-app
+# Tally-Quiz-App
